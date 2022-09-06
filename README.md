@@ -11,4 +11,4 @@ A dog encyclopedia Android app that contains beautiful photos, simple organizati
 - implemented the permission functionality to get the SEND SMS permission
 - implemented the sharing functionality
 
-Screenshots of the app are included in the repository.
+A screenshot of the app main page is included in the repository.
